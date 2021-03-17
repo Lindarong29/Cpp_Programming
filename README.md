@@ -1,2 +1,2 @@
-# Thu1-4_Programming
-C++ Programming
+# Cpp_Programming
+C++ Programming (Thu1-4)
